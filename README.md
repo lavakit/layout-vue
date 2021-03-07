@@ -3,7 +3,7 @@
 Starter responsive dashboard layout built with tailwind css & vue 3 and typescript (vite js)
 
 
-[![GitHub license](https://img.shields.io/github/license/lavakit/layout-vue)](https://github.com/lavakit/layout-vue/blob/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/github/license/lavakit/layout-vue)](https://github.com/lavakit/layout-vue/blob/master/README.md)
 [![GitHub stars](https://img.shields.io/github/stars/lavakit/layout-vue)](https://github.com/lavakit/layout-vue/stargazers)
 
 ### [See live](https://tqhoa.github.io/layout-vue/)
