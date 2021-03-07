@@ -1,0 +1,36 @@
+{
+  "name": "layout-vue-3",
+  "version": "1.0.0",
+  "description": "Starter responsive dashboard layout built with 3 and typescript and tailwind css",
+  "license": "MIT",
+  "keywords": [
+    "vue 3",
+    "typescript",
+    "tailwindcss",
+    "layout",
+    "template",
+    "admin panel"
+  ],
+  "author": {
+    "name": "TQHOA",
+    "email": "tqhoa8th@gmail.com",
+    "url": "https://github.com/Kamona-WD"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.4",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "typescript": "^4.1.3",
+    "vite": "^2.0.5"
+  }
+}
