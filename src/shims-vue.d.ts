@@ -1,7 +1,7 @@
 declare module '*.vue' {
   import { DefineComponent } from 'vue'
-  const component: DefineComponent<{}, {}, any>
+  const component: DefineComponent<{}, {}, any>;
   export default component
 }
 
-declare const _APP_VERSION: string
+declare const _APP_VERSION: string;

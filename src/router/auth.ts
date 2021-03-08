@@ -1,7 +1,8 @@
+import { RouteRecordRaw } from "vue-router";
 import Login from "@/views/auth/Login.vue";
 import Register from "@/views/auth/Register.vue";
 
-export default [
+const auth: Array<RouteRecordRaw> = [
   {
     path: '/auth/login',
     name: 'login',
@@ -18,4 +19,6 @@ export default [
       layout: 'GuestLayout'
     }
   }
-]
+];
+
+export default auth;

@@ -1,7 +1,8 @@
+import { RouteRecordRaw } from "vue-router";
 import Home from "@/views/Home.vue";
 import authRoutes from './auth'
 
-export default [
+const router: Array<RouteRecordRaw> = [
   {
     path: '/',
     name: 'home',
@@ -11,4 +12,6 @@ export default [
     }
   },
   ...authRoutes,
-]
+];
+
+export default router
